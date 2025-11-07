@@ -23,7 +23,7 @@
 </hr>
 
 ### 👨‍💻 About Me :
-I am a software engineer who is passionate about solving problems and providing appropriate solutions. I am highly motivated and have an extraordinary interest in continuous learning. I have experience working in a team environment and I am confident that my skills and abilities will make me a valuable addition to any team.
+Senior Software Engineer with over 13 years of experience (since 2012) in designing, building, and modernizing complex, high-availability enterprise systems. Proven expertise in architecting cloud-native platforms from the ground up, utilizing .NET 9, Kubernetes, and Event-Driven Design. A hands-on leader who bridges the gap between high-level architecture (Clean Architecture, CQRS) and practical, high-performance implementation.
 
 </hr>
 
