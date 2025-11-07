@@ -27,6 +27,13 @@ Senior Software Engineer with over 13 years of experience (since 2012) in design
 
 </hr>
 
+### 📄 Resume :
+<a href="https://drive.google.com/file/d/1kZ2WfCAuazRyImahy6ZpmxwvMfZimTK8/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View_My_Resume-Download-red?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Download Link"/>
+</a>
+
+</hr>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
